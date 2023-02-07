@@ -1,1 +1,6 @@
+root@062e50720997:/alx-zero_day/0x03-git# git branch -a
+*master
 update_script
+remotes/origin/master
+remotes/origin/update_script
+root@062e50720997:/alx-zero_day/0x03-git# git merge update_script
