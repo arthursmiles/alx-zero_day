@@ -1,1 +1,6 @@
-ALX
+#!/bin/bash
+<<<<<<< HEAD
+echo 'ALX School os so cool!'
+
+echo 'ALX School'
+update_script
